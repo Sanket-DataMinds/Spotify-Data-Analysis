@@ -1,7 +1,7 @@
 # 🎵 Advanced SQL Project: Spotify Dataset
 
 
-
+![Image](https://github.com/user-attachments/assets/385c1217-76a7-4458-9615-c80bde8c249e)
 
 ## 📌 Overview
 This project analyzes a Spotify dataset using advanced SQL queries. The dataset contains various track details, including streaming metrics, audio features, and platform information. The SQL queries cover exploratory data analysis (EDA), track insights, and other analytical operations.
