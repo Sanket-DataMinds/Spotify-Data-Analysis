@@ -1,5 +1,14 @@
 # 🎵 Advanced SQL Project: Spotify Dataset
 
+# Spotify Icon Image
+
+This repository contains an image of the Spotify icon.
+
+## Image
+
+![Spotify Icon](spotify_icon.png)
+
+
 ## 📌 Overview
 This project analyzes a Spotify dataset using advanced SQL queries. The dataset contains various track details, including streaming metrics, audio features, and platform information. The SQL queries cover exploratory data analysis (EDA), track insights, and other analytical operations.
 
