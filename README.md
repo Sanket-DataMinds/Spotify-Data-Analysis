@@ -1,12 +1,6 @@
 # 🎵 Advanced SQL Project: Spotify Dataset
 
-# Spotify Icon Image
 
-This repository contains an image of the Spotify icon.
-
-## Image
-
-![Spotify Icon](spotify_icon.png)
 
 
 ## 📌 Overview
